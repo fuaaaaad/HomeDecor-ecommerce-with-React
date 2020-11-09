@@ -1,0 +1,11 @@
+.bottom {
+    background: rgba(255, 255, 255, 0.877);
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    bottom: 0;
+    z-index: 999;
+  }
+ 
